@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  React - Studies Repository
+  📚 React - Studies Repository
 </h1>
 
 <h4 align="center">Two React apps built during Udemy React + Redux course.</h4>
